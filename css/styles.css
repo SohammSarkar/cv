@@ -1,0 +1,17 @@
+body{
+  background-color: aquamarine;
+  border-style: none;
+  border-right: dashed;
+  border-width: 5px;
+  border-color: whitesmoke;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  border-color: white;
+  width: 60%;
+  max-width: 400px;
+  margin-left: 20px;
+}
